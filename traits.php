@@ -3,6 +3,8 @@
 /* * Traits in PHP are a mechanism for code reuse in single inheritance languages like PHP.
  * They allow you to include methods from one class into another without using inheritance.
  * This is useful for sharing functionality across multiple classes without duplicating code.
+ * 
+ * @author Randika Nonis
  */
 
 class User
