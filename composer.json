@@ -1,0 +1,14 @@
+{
+    "name": "randikan/php-oop",
+    "description": "A simple PHP OOP example",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "license": "proprietary"
+}
